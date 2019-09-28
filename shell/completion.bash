@@ -9,6 +9,7 @@
 # - $FZF_COMPLETION_TRIGGER (default: '**')
 # - $FZF_COMPLETION_OPTS    (default: empty)
 
+:
 if [[ $- =~ i ]]; then
 
 # To use custom commands instead of find, override _fzf_compgen_{path,dir}
